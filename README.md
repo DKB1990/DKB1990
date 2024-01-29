@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DKB1990
-- 👀 I’m interested in ... Quantum Computer
-- 🌱 I’m currently learning ...Python, AI, Solution Designing, Quantum Computer
+- 👀 I’m interested in ... Quantum Computer, Algorithm, Data Structure
+- 🌱 I’m currently learning ...Python, AI, Solution Architecture and Design
 - 💞️ I’m looking to collaborate on Solution-Design, Open Source software
 - 📫 How to reach me at Dheeraj.Bansal14@gmail.com
 
